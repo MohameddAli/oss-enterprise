@@ -12,7 +12,14 @@ This is a **learning** repository. You will see that the `github-learning-lab` b
 
 ### Getting Started
 
-We hope you are excited to get started! Head over to the take your first steps toward a :sparkles: Open Source program for your company.
+We hope you are excited to get started! Follow these steps to begin:
+
+1. Read the [Assessment Guide](assessments/assessment-guide.md) for instructions on completing your open source self-assessment
+2. Complete the [Open Source Self-Assessment](assessments/open-source-assessment.md) to take your first steps toward a :sparkles: Open Source program for your company
+
+## Repository Structure
+
+- **[assessments/](assessments/)** - Tools and templates for assessing your organization's open source maturity
 
 ## License
 
